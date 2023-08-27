@@ -2,7 +2,7 @@ import os
 import requests
 
 # Set your OpenAI API key and base URL
-#openai_api_key = "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"
+openai_api_key = "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"
 openai_api_base = "http://127.0.0.1:5000/v1/models"  # Update with the correct URL
 
 def get_openai_response(prompt):
