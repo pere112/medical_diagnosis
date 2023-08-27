@@ -1,0 +1,7 @@
+clarifai-grpc
+streamlit
+streamlit-chat
+pandas 
+scikit-learn
+llama-api-server==0.3.5
+openai
